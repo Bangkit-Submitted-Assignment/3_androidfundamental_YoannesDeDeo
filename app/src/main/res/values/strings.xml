@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Git Search</string>
+    <string name="author">Made by Aryo Wibisono</string>
+    <string name="searchbar_hint">Temukan pengguna lain ?</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="kosong">kosong</string>
+    <string name="dark_mode">Settings</string>
+    <string name="chooseMode">dark mode</string>
+    <string name="favorite_button">Favorit users</string>
+    <string name="added">user %1$s berhasil ditambahkan ke favorite</string>
+    <string name="delete">anda telah menghapus user %1$s dari favorit</string>
+</resources>
